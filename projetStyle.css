@@ -1,0 +1,42 @@
+body {
+  background-color: rgb(255, 231, 245);
+}
+
+.heading {
+  width: 100%;
+  background-color: #fff3fa;
+}
+
+#title {
+  font-family: brush script mt, cursive;
+  font-size: 2vw;
+  font-style: italic;
+  letter-spacing: 4px;
+  color: #6F3673;
+}
+
+/*#title :hover{
+color: antiquewhite;
+background-color: hotpink;
+}*/
+#link, .menulink {
+  text-decoration: none;
+}
+.menulink:active{
+    color: #6F3673;
+}
+#link :active {
+  color: #6F3673;
+}
+
+.menu {
+  background-color: #fff3fa;
+  width: 100%;
+}
+table.tablem{
+    font-size: large;
+    margin-left: 15%;
+    font-family:'Courier New', Courier, monospace;
+    color: #6F3673;
+    font-style: oblique;
+}
